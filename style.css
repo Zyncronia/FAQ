@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    background-color: lightskyblue;
+}
+link{
+    display: none;
+}
+header{
+    align-items: center;
+}
+
+.accordion-item{
+    border-radius: 15px;
+}
