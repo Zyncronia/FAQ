@@ -1,6 +1,14 @@
 *{
     box-sizing: border-box;
+
+}
+body{
     background-color: lightskyblue;
+}
+
+header{
+    padding: 10px;
+    text-align: center;
 }
 link{
     display: none;
@@ -9,6 +17,7 @@ header{
     align-items: center;
 }
 
-.accordion-item{
-    border-radius: 15px;
+
+.accordion-item, .accordion-button{
+    border-radius: 160px !important;
 }
